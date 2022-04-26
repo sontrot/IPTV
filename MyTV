@@ -506,7 +506,7 @@ http://122.248.43.138:1935/ch27/myStream/chunklist_w998392151.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cTS5Qch/ja.jpg" group-title="TV Daerah", Simpang 5 TV
 http://122.248.43.138:1935/ch4/myStream/live.m3u8      	 	
 
-//LOKAL
+//TV INDONESIA
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="Lokal",MYTV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
 
@@ -4043,7 +4043,7 @@ https://ott-navigator.my.id/samsung/master.m3u8?id=CinevaultWesterns
 
 
 
-//Anime &amp; Game
+//ANIME & GAME STREAMING
 
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="Anime &amp; Game",Anime All Ages
